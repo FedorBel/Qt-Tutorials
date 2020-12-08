@@ -1,2 +1,1 @@
 # Qt-Tutorials
-Learning Qt
